@@ -74,11 +74,11 @@ header ul a span {
   padding-right: 2px;
 }
 header ul a:hover {
-  color: #48b983;
+  color: #e53935;
   text-decoration: none;
 }
 header ul a:hover span {
-  color: #1b8057;
+  color: #e53935;
 }
 
 .content {
