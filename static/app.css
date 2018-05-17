@@ -13,10 +13,10 @@ a, a span {
   transition: color .3s ease-in-out;
 }
 a {
-  color: #48b983;
+  color: #ef5350;
 }
 a:hover {
-  color: #40a776;
+  color: #ef5350;
 }
 
 ul, ol {
@@ -69,16 +69,16 @@ header ul a {
   font-weight: 700;
 }
 header ul a span {
-  color: #888;
-  font-weight: 300;
+  color: #ddd;
+  font-weight: 400;
   padding-right: 2px;
 }
 header ul a:hover {
-  color: #e53935;
+  color: #ef5350;
   text-decoration: none;
 }
 header ul a:hover span {
-  color: #e53935;
+  color: #ef5350;
 }
 
 .content {
@@ -143,7 +143,7 @@ p.date a, p.date a:link, p.date a:visited {
   text-decoration: underline;
 }
 p.date a:hover, p.date a:active {
-  color: #48b983 !important;
+  color: #ef5350 !important;
 }
 p.signature {
   margin-top: 60px;
